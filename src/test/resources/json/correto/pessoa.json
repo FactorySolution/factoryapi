@@ -1,0 +1,12 @@
+ {
+    "nome": "Andre",
+    "dataNascimento": "1986-02-12",  
+    "cpf": "85652652004",
+    "contatos": [
+        { 
+            "nome": "Contato",
+            "telefone": "41022589067",
+            "email": "email@email.com"
+        }
+    ]
+}
